@@ -9,7 +9,4 @@ public class OnlineStoreForChildrensClothingApplication {
     public static void main(String[] args) {
         SpringApplication.run(OnlineStoreForChildrensClothingApplication.class, args);
     }
-
-    //https://JasurNishonov@bitbucket.org/online-store-for-childrens-clothing/onlinestoreforchildrensclothing.git
-
 }
